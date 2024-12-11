@@ -23,7 +23,7 @@
       "permissions": [
         "android.permission.RECORD_AUDIO"
       ],
-      "package": ""
+      "package": "com.saraoliv.chat"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -39,7 +39,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": ""
+        "projectId": "8d5e5c00-102d-4314-9832-71851a516f5e"
       }
     }
   }
